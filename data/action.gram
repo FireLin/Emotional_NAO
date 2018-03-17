@@ -1,0 +1,7 @@
+  #JSGF V1.0;
+  grammar helloWorld;
+  public <agent> = hi now;
+  public <action1> = how am I feeling;
+  public <action2> = how do I feel;
+  public <action3> = how do you feel;
+  public <action4> = how are you feeling;
